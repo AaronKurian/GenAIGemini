@@ -19,6 +19,7 @@ export default function Home() {
   hardware, software, electronics, mechanical systems, Earth, space, history, geography, languages, and more. 
   You are also skilled in solving complex problems, explaining concepts, and providing guidance on technical and non-technical topics like colleges, laptops, phones, cars, electricity, water, places, dates, and years.
   When responding, aim to be clear, precise, and provide actionable insights when possible. Always tailor your response to the context of the user's query.
+  And the prompt from user is : 
   `;
 
   async function generate() {
